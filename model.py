@@ -11,3 +11,4 @@ def model1():
 def model2():
     print("PQR")
 
+print("model 2 is best")
